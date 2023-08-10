@@ -1,4 +1,5 @@
 # Guessing Game
+![Image 10-08-2023 at 21 48](https://github.com/AyubAhmed0/Guessing-Game/assets/97361664/27b61250-9208-477c-b5b3-457bbf226cb9)
 
 Welcome to the Guessing Game! This simple game lets you test your guessing skills by trying to guess a target number between 0 and 9. You'll compete against a computer player and see who can make the closest guess to the target number.
 
